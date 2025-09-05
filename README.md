@@ -16,8 +16,8 @@ Estructura del proyecto:
 Instrucciones para iniciar el proyecto:
 
 1. Clonar el repositorio
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone https://github.com/OmarAPI0/Prueba.git
+   cd prueba
 
 2. Configurar el backend
    cd backend
@@ -46,7 +46,9 @@ Conventional Commits:
 
 Ejemplos:
 git commit -m "feat(frontend): agregar formulario para crear tareas"
+
 git commit -m "fix(backend): corregir error al actualizar tareas"
+
 git commit -m "docs: agregar instrucciones en README"
 
 Autor:
